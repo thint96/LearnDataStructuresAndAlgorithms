@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;PRIME1_PrimeGenerator.java&apos; to &apos;OnThiSS/src/spoj.PRIME1&apos;&#x0A;- Original project: &apos;OnThiSS&apos;&#x0A;- Destination element: &apos;OnThiSS/src/spoj.PRIME1&apos;&#x0A;- Original element: &apos;spoj.PRIME1_PrimeGenerator.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;spoj.PRIME1" element1="/src&lt;spoj{PRIME1_PrimeGenerator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1583944601535" units="1" version="1.0"/>
+</session>
